@@ -1,0 +1,9 @@
+Flask
+gunicorn
+numpy
+pandas
+torch
+torchvision
+Pillow
+pennylane
+pennylane-lightning
